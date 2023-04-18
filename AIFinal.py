@@ -35,8 +35,6 @@ def printResult(board):
         print('O\'s have won! ' + '\n')
     else:
         print('Draw' + '\n')
-    #other way
-    print('X has won! ' + '\n' if winningPlayer(board,1) else 'O\'s have won! ' + '\n' if winningPlayer(board,-1) else 'Draw' + '\n')
 
 def blanks(board):
     blank = []
