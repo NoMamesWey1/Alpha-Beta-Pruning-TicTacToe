@@ -1,7 +1,5 @@
 # Tic-Tac-Toe with Alpha-Beta Pruning
 
-This is a Python implementation of the Tic-Tac-Toe game using the Alpha-Beta Pruning optimization technique in the Minimax algorithm.
-
 ## Problem Statement
 
 The task is to design a Tic-Tac-Toe game where the computer player uses the Alpha-Beta Pruning technique to make optimal moves. The Alpha-Beta Pruning is a modification of the minimax algorithm, which helps reduce the number of nodes evaluated in the search tree.
